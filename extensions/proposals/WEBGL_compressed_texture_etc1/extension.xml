@@ -66,7 +66,7 @@ interface WEBGL_compressed_texture_etc1 {
 };
   </idl>
   <history>
-    <revision date="2012/02/23">
+    <revision date="2013/02/23">
       <change>Initial revision.</change>
     </revision>
   </history>
